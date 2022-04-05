@@ -1,0 +1,28 @@
+{
+  "name": "hw17-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkatyazhukk/hw17-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkatyazhukk/hw17-/issues"
+  },
+  "homepage": "https://github.com/kkatyazhukk/hw17-#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.1.1"
+  },
+  "devDependencies": {
+    "chromedriver": "^100.0.0"
+  }
+}
